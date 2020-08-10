@@ -1,11 +1,11 @@
 # Site settings
-author: Yevgeniy Piliposyans
-title: 
+author: Yevgeniy Piliposyans 
+title: Software Engineering
 header-img: img/home-bg.png
 email: piliposyans@icloud.com
-copyright_name: Yevgeniy Piliposyans
+copyright_name: Yevgeniy Piliposyans 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why Software Engineering?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Piliposyans
