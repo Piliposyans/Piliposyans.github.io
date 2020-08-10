@@ -1,0 +1,8 @@
+---
+layout: post
+title:      "Why Software Engineering? "
+date:       2020-08-10 11:17:05 +0000
+permalink:  why_software_engineering
+---
+
+Ever since I was a sophomore in High School, I became very interested in programming, because I had to take intro to web design class towards my graduation. At first I wasn't very fond of it, but as soon as you start getting into it, understanding more and more of the present, then you won't be afraid of the future. I chose Software Engineering because of my love of writing code. I feel like it is the most precise way for me to express my thought and creativity. I love that it is challenging, that you'll never stop learning, no matter how long you've been a Software Engineer. There is a near infinite amount of stuff you can learn, such as: the many new languages, programming paradigms, understanding the hardware and etc.. I am the type of person who is very curious, and who loves to learn new things. it is one of the few jobs, where no matter how much you have previously studies, you will always have a lot more to learn. I feel like the need to always learn new things will never make Software Engineering boring. I really like that to become a succesful Engineer, you have to be a good team player. Becuse if you are working in the team, then you can achieve higher goals than you would working by yourself. Programming does not require much capital investment, so if you have an ambitious team of people that you can trust, then sky is the limit.  Also it is highly rewarding, with the right skill sets I will be able to make a decent living out of it. 
